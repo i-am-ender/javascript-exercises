@@ -9,7 +9,9 @@
 
 // Add your code right below, good luck!
 
+let firstName = "Carlos", lastName = "Stevenson", thisYear = 1965, birthYear = 1947
 
+console.log = `Hello! My name is ${firstName} ${lastName} and I am ${thisYear - birthYear} years old.`
 
 
 
